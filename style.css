@@ -7,7 +7,7 @@ body{
   line-height: normal;
 }
 
-h1{
+h2{
   text-align: center;
   font-family: 'Vollkorn', serif;
   color: #1B2727;
@@ -16,7 +16,7 @@ h1{
   line-height: 3px;
 }
 
-#banner-text{
+h1{
   text-align: center;
   font-family: 'Vollkorn', serif;
   color: whitesmoke;
@@ -31,7 +31,7 @@ h1{
   background-image: url("images/confused1.gif");
   background-size: cover;
   padding: 150px;
-  margin: 10px;
+  margin: 20px 0px;
   border-radius: 80px;
   color: whitesmoke;
   text-shadow: 1px 1px 5px black;
@@ -55,7 +55,7 @@ div {
   width: 700px;
   margin: 20px auto;
   border-radius: 80px;
-  padding: 5px 2px;
+  padding: 20px;
 }
 
 .img-circle{
@@ -85,7 +85,6 @@ object-fit: cover;
 
 /* Custom design with class (99% of your design) */
 .container {
-  width: 700px;
   margin: 40px auto;
 }
 
